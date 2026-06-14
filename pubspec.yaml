@@ -1,4 +1,15 @@
-name: test_workspace
+PHASE 1: Project Setup
+Tasks:
+Create Flutter project.
+Configure Android and iOS.
+Setup Firebase.
+Install dependencies.
+Create folder structure using Clean Architecture.
+Deliver:
+Folder structure.
+pubspec.yaml dependencies.
+Setup guide.
+Complete code.name: test_workspace
 publish_to: none
 environment:
   sdk: ^3.5.0
